@@ -1,0 +1,1 @@
+This is a pipeline for upstream data processing of FascRNA-seq, please refer to the files directory for detailed information.
